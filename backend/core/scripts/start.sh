@@ -2,7 +2,7 @@
 
 # Check if gpt4all is already installed
 if ! pip show gpt4all > /dev/null; then
-    if [[ $PRIVATE == "True" ]]; then
+    if  $PRIVATE == "True" ]]; then
         apt-get install -y liblzma-dev cmake
 
         cd /tmp && git clone --recurse-submodules https://github.com/nomic-ai/gpt4all
