@@ -31,7 +31,7 @@ export const ChatMessages = (): JSX.Element => {
               />
               <ChatMessage
                 key={`assistant-${message_id}`}
-                speaker={"assistant"}
+                speaker={"Max Smart"}
                 text={assistant}
               />
             </React.Fragment>
