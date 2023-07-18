@@ -10,8 +10,8 @@ const SelectedChatPage = (): JSX.Element => {
     <main className="flex flex-col w-full pt-10" data-testid="chat-page">
       <section className="flex flex-col flex-1 items-center w-full h-full min-h-[70vh]">
         <PageHeading
-          title="Chat with your brain"
-          subtitle="Talk to a language model about your uploaded data"
+          title="Chat with Max Smart"
+          subtitle="Talk to your AI about your data"
         />
         <ChatProvider>
           <div className="relative w-full flex flex-col flex-1 items-center">
