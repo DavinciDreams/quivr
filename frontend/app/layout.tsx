@@ -14,9 +14,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Quivr - Get a Second Brain with Generative AI",
+  title: "Max Smart - Your AI Knowledge Base",
   description:
-    "Quivr is your second brain in the cloud, designed to easily store and retrieve unstructured information.",
+    "Max Smart is your AI assistant, designed to easily store information and retrieve knowledge.",
 };
 
 const RootLayout = async ({
