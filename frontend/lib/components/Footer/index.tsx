@@ -16,7 +16,7 @@ const Footer = (): JSX.Element => {
           href={GITHUB_URL}
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Quivr GitHub"
+          aria-label="Max Smart GitHub"
         >
           <img
             className="h-8 w-auto dark:invert"
