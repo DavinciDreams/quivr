@@ -40,7 +40,7 @@ export const NavItems = ({
           <NavLink setOpen={setOpen} to="/chat">
             Chat
           </NavLink>
-          <NavLink setOpen={setOpen} to="/explore">
+          <NavLink setOpen={setOpen} to="/brain">
             Explore
           </NavLink>
         </>
