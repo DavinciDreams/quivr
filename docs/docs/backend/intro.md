@@ -11,7 +11,6 @@ You can find the Swagger documentation for the API at [https://api.quivr.app/doc
 
 This documentation outlines the key points and usage instructions for interacting with the API backend. Please follow the guidelines below to use the backend services effectively.
 
-
 ## FastAPI
 
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. FastAPI is a class-based API framework that is built on top of Starlette and Pydantic. FastAPI is a great choice for building APIs because it is easy to use, fast, and has a lot of great features.
