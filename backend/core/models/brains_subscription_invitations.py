@@ -88,7 +88,7 @@ class BrainSubscription(BaseModel):
                 {
                     "from": "onboarding@resend.dev",
                     "to": self.email,
-                    "subject": "Quivr - Brain Shared With You",
+                    "subject": "Max SMart - Brain Shared With You",
                     "html": html_body,
                 }
             )
