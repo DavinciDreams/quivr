@@ -1,7 +1,7 @@
 # Quivr - Your Second Brain, Empowered by Generative AI
 
 <div align="center">
-    <img src="./logo.png" alt="Quivr-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
+    <img src="./logo.png" alt="Max-Smart-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
 
 <div align="center">
@@ -19,22 +19,6 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
 - **Universal Data Acceptance**: Quivr can handle almost any type of data you throw at it. Text, images, code snippets, we've got you covered.
 - **Generative AI**: Quivr employs advanced AI to assist you in generating and retrieving information.
 - **Fast and Efficient**: Designed with speed and efficiency at its core. Quivr ensures rapid access to your data.
-- **Secure**: Your data, your control. Always.
-- **OS Compatible**: Ubuntu 22 or upper.
-- **File Compatibility**:
-  - Text
-  - Markdown
-  - PDF
-  - Powerpoint
-  - Excel (Not Yet)
-  - CSV
-  - Word
-  - Audio
-  - Video
-- **Open Source**: Freedom is beautiful, and so is Quivr. Open source and free to use.
-
-## Demo Highlights 🎥
-
 https://github.com/StanGirard/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-70562dca71f5
 
 ## Getting Started 🚀
