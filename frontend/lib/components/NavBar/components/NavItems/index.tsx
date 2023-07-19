@@ -41,7 +41,7 @@ export const NavItems = ({
             Chat
           </NavLink>
           <NavLink setOpen={setOpen} to="/explore">
-            Explore
+            My Mind
           </NavLink>
         </>
       ) : (
