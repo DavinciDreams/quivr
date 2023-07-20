@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Quivr 🧠',
   tagline: 'Your Generative AI second brain',
-  favicon: 'img/quivr-logo.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://brain.quivr.app',
